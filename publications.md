@@ -15,7 +15,7 @@ Xudong Xie, Yuwei Zhang, Wensheng Dou, Yu Gao, Ziyu Cui, Jiansen Song, **Rui Yan
 
 Ziyu Cui, Wensheng Dou, Yu Gao, **Rui Yang**, Yingying Zheng, Jiansen Song, Yuan Feng, Jun Wei
 
-51st International Conference on Very Large Data Bases (**VLDB 2025**)
+51st International Conference on Very Large Data Bases (**VLDB 2025, CCF A**)
 
 ---
 
@@ -23,7 +23,7 @@ Ziyu Cui, Wensheng Dou, Yu Gao, **Rui Yang**, Yingying Zheng, Jiansen Song, Yuan
 
 **Rui Yang**, Ziyu Cui, Wensheng Dou, Yu Gao, Jiansen Song, Xudong Xie, Jun Wei
 
-34th ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA 2025**)
+34th ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA 2025, CCF A**)
 
 ---
 
@@ -31,7 +31,7 @@ Ziyu Cui, Wensheng Dou, Yu Gao, **Rui Yang**, Yingying Zheng, Jiansen Song, Yuan
 
 Ziyu Cui, Wensheng Dou, Yu Gao, Dong Wang, Jiansen Song, Yingying Zheng, Tao Wang, **Rui Yang**, Kang Xu, Yixin Hu, Jun Wei, Tao Huang
 
-46th IEEE/ACM International Conference on Software Engineering (**ICSE 2024**)
+46th IEEE/ACM International Conference on Software Engineering (**ICSE 2024, CCF A**)
 
 ---
 
@@ -39,5 +39,5 @@ Ziyu Cui, Wensheng Dou, Yu Gao, Dong Wang, Jiansen Song, Yingying Zheng, Tao Wan
 
 **Rui Yang**, Yingying Zheng, Lei Tang, Wensheng Dou, Wei Wang, Jun Wei
 
-45th IEEE/ACM International Conference on Software Engineering (**ICSE Demo 2023**)
+45th IEEE/ACM International Conference on Software Engineering (**ICSE Demo 2023, CCF A**)
 
