@@ -3,6 +3,14 @@ layout: page
 title: Publications
 ---
 
+**RISE: Rule-Driven SQL Dialect Translation via Query Reduction**
+
+Xudong Xie, Yuwei Zhang, Wensheng Dou, Yu Gao, Ziyu Cui, Jiansen Song, **Rui Yang**, Jun Wei
+
+48th IEEE/ACM International Conference on Software Engineering (**ICSE 2026, CCF A**)
+
+---
+
 **Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems** [[PDF](https://wsdou.github.io/papers/2025-vldb-writecheck.pdf)] [[Slide](https://wsdou.github.io/papers/2025-vldb-writecheck.pptx)]
 
 Ziyu Cui, Wensheng Dou, Yu Gao, **Rui Yang**, Yingying Zheng, Jiansen Song, Yuan Feng, Jun Wei
