@@ -1,11 +1,10 @@
-# source "https://rubygems.org"
-# gemspec
+source "https://rubygems.org"
+gemspec
 
-# gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-compose', group: [:jekyll_plugins]
 
-# gem 'listen', '~> 3.7'
+gem 'listen', '~> 3.7'
 
-source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
