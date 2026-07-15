@@ -3,6 +3,14 @@ layout: page
 title: Publications
 ---
 
+**Systematically Cover SQL Syntactic Structures via k-Sequence**
+
+Hongtao Zhou, Yingying Zheng, Yu Gao, Jiansen Song, Xudong Xie, **Rui Yang**, Ziyu Cui, Wensheng Dou, Jun Wei
+
+35th ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA 2026, CCF A**)
+
+---
+
 **RISE: Rule-Driven SQL Dialect Translation via Query Reduction**
 
 Xudong Xie, Yuwei Zhang, Wensheng Dou, Yu Gao, Ziyu Cui, Jiansen Song, **Rui Yang**, Jun Wei
